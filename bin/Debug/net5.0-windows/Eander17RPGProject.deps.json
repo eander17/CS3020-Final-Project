@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Eander17RPGProject/1.0.0": {
+        "runtime": {
+          "Eander17RPGProject.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Eander17RPGProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
